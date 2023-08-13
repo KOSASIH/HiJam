@@ -70,7 +70,7 @@ HiJam is a dynamic project with ongoing development. Future enhancements include
 We welcome contributions from the open-source community. To get involved, fork the repository, make your changes, and submit a pull request. Be sure to follow our code of conduct.
 
 ## License
-HiJam is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+HiJam is licensed under the [MIT License](https://github.com/KOSASIH/HiJam/blob/main/LICENSE).
 
 ---
 
