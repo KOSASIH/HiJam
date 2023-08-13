@@ -74,7 +74,7 @@ HiJam is licensed under the [MIT License](https://github.com/KOSASIH/HiJam/blob/
 
 ---
 
-Feel free to reach out to us at [contact@hijam-esports.com](mailto:contact@hijam-esports.com) for any inquiries or collaborations. Join us in shaping the future of esports with real-time, in-game data insights through HiJam!
+Feel free to reach out to us at [contact@hijam-esports.com](mailto:contact@hijam-esports.com) or [Discord Channel](https://discord.gg/pjGQGNTF) for any inquiries or collaborations. Join us in shaping the future of esports with real-time, in-game data insights through HiJam!
 
 ## Project Structure
 
