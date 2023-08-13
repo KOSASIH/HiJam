@@ -1,7 +1,5 @@
 # HiJam: Showcasing Live, In-Game Data in Esports
 
-![HiJam Logo](https://example.com/hijam-logo.png)
-
 HiJam is a cutting-edge microservice application that demonstrates the immense potential of live, in-game data within the realm of esports. By harnessing the power of real-time data analytics and visualization, HiJam offers a unique and immersive experience for both players and spectators, revolutionizing how esports is enjoyed.
 
 ## Table of Contents
